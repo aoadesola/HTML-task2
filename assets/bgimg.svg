@@ -1,0 +1,21 @@
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1440" height="1024" fill="#EEEEEE"/>
+<g clip-path="url(#clip0)">
+<rect width="1440" height="1024" fill="#062863"/>
+<circle cx="73" cy="27" r="73" fill="#2194F1"/>
+<circle cx="73.5" cy="27.5" r="59.5" fill="#062863"/>
+<rect x="1341.03" y="1032.32" width="40" height="141" transform="rotate(-106 1341.03 1032.32)" fill="#7900DB"/>
+<rect x="1385.99" y="874.45" width="40" height="100" transform="rotate(-16 1385.99 874.45)" fill="#7900DB"/>
+<rect x="1352" y="63.2542" width="106" height="106" transform="rotate(-20 1352 63.2542)" fill="#10AA58"/>
+<circle cx="1436" cy="145" r="50" fill="#10AA58"/>
+<circle cx="1452" cy="121" r="38" fill="#062863"/>
+<rect x="1397" y="81.5472" width="63" height="63" transform="rotate(-20 1397 81.5472)" fill="#062863"/>
+<path d="M-29 930.417L92.5066 878.841L121.811 947.879C134.112 976.857 120.592 1010.32 91.6144 1022.62L22.5765 1051.92L-29 930.417Z" fill="#E34899"/>
+<path d="M-19 954.947L76.7325 914.311L90.4081 946.529C102.708 975.507 89.1887 1008.97 60.211 1021.27L16.9473 1039.63L-19 954.947Z" fill="#062863"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="1440" height="1024" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+body {
+    background-color: #ADD8E6;
+    /*background-image: url(assets/bgimg.svg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: inherit;*/
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 48px;
+}
+.formhd {
+    font-family: 'u8bold', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #083e9e;
+    text-align: center;
+    margin-top: -1px;
+}
+.formsh {
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #4a5568;
+    text-align: center;
+    margin-top: -21px;
+}
+.container {
+    padding: 40px;
+    background-color: white;
+    width: 368px;
+    border-radius: 20px 20px 20px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 48px;
+    height: 890px;
+}
+
+input[type=text], input[type=password], input[type=tel], input[type=email] {
+    width: 368px;
+    height: 56px;
+    padding: 15px;
+    margin: 5px 0 38px 0;
+    display: inline-block;
+    border: none;
+    background-color: #EDF2F7;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: 'Segoe UI Regular';
+    font-weight: 400;
+    font-style: normal;
+    color: #1a202c;
+    line-height: 24px;
+    outline: none;
+  }
+
+label {
+    font-family: 'u8bold', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    color: #4a5568;
+    font-weight: 700;
+    line-height: 24px;
+}
+form {
+    padding-top: 20px;
+}
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+    width: 368px;
+    height: 56px;
+    padding: 15px;
+    margin: 5px 0 38px 0;
+    display: inline-block;
+    border: none;
+    background-color: #EDF2F7;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: 'Segoe UI Regular';
+    font-weight: 400;
+    font-style: normal;
+    color: #1a202c;
+    line-height: 24px;
+    background-image: url(assets/icons8-chevron-down-30.png) ,url(assets/icons8-vertical-line-30.png);
+    background-repeat: no-repeat;
+    background-position: 95% 50%, 90% 50%;
+    background-size: 16px, 20px;
+}
+
+button {
+    width: 100%;
+    height: 57px;
+    background-color: #083e9e;
+    border: none;
+    color: #fff;
+    font-family: 'u8bold', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    border-radius: 15px 15px 15px 0px;
+}
+button:hover {
+    background-color: #062863;
+} 
+
+.foot {
+    margin-top: 42px;
+    margin-bottom: 58px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.foot a {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+}
+.foot a:hover {
+    color: #a19e9e;
+}
